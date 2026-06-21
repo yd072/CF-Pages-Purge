@@ -1,6 +1,6 @@
 # 🧹 CF-Pages-Purge (Cloudflare Pages 历史版本清理工具)
 
-一个基于 Cloudflare Workers 部署的免服务器、单文件、全图形化界面的 Cloudflare Pages 历史部署版本批量清理工具。通过同源反向代理技术，完美解决前端直接请求 Cloudflare API 时的跨域（CORS）限制。
+一个基于 Cloudflare Workers 部署的免服务器、单文件、全图形化界面的 Cloudflare Pages 历史部署版本批量清理工具。
 
 ## ✨ 特性
 
